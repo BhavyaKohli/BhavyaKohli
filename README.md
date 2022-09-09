@@ -26,8 +26,8 @@ You can make your own card by following instructions at: https://github.com/anur
 --->
 
 <div class="row">
-    <img alt="Prateek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhavyaKohli&count_private=true&show_icons=true&theme=graywhite" height="180">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaKohli&theme=graywhite&layout=compact&hide=SCSS,Scheme,SystemVerilog,Stata,HTML,JavaScript,Verilog&langs_count=6" height="180">
+    <img alt="Bhavya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhavyaKohli&count_private=true&show_icons=true&theme=graywhite" height="180">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaKohli&theme=graywhite&layout=compact&hide=SCSS,Scheme,SystemVerilog,Stata,HTML,JavaScript,Batchfile,Verilog&langs_count=6" height="180">
 </div>
 
 <!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BhavyaKohli&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
