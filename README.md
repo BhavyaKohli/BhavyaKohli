@@ -26,7 +26,7 @@ You can make your own card by following instructions at: https://github.com/anur
 --->
 
 <div class="row">
-    <img alt="Bhavya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhavyaKohli&count_private=true&show_icons=true&theme=graywhite" height="180">
+    <img alt="Bhavya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhavyaKohli&count_private=true&show_icons=true&theme=onedark" height="180">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaKohli&theme=onedark&layout=compact&hide=SCSS,Scheme,SystemVerilog,Stata,HTML,JavaScript,Batchfile,Verilog&langs_count=6" height="180">
 </div>
 
